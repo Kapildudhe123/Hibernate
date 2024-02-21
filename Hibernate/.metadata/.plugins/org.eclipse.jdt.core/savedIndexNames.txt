@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+C:\RAYS\WORKSPACE\Hibernate\.metadata\.plugins\org.eclipse.jdt.core
+3580778569.index
+246382829.index
+63421549.index
+2704879948.index
+369467044.index
+3307255118.index
+4084894241.index
+2713902056.index
+3644142894.index
+407480580.index
+3550543054.index
+3139221677.index
+1024446143.index
+2496459576.index
+2126173434.index
+3239817051.index
+3319653682.index
