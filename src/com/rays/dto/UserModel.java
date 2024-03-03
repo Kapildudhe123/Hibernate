@@ -60,7 +60,7 @@ public class UserModel {
 
 	}
 
-	public UserDTO findByPk(int pk) {
+	public static UserDTO findByPk(int pk) {
 
 		SessionFactory sf = new Configuration().configure().buildSessionFactory();
 
